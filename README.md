@@ -1,2 +1,2 @@
 Create my new portfolio...
-<a  <img src="https://github.com/priyesh069/Portfolio/blob/main/portfolio.png?raw=true"> </a>
+<img src="https://github.com/priyesh069/Portfolio/blob/main/portfolio.png?raw=true"> 
